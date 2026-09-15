@@ -1,1 +1,2 @@
-HELLO MANGO , HOW ARE YOU ?
+﻿5
+10
